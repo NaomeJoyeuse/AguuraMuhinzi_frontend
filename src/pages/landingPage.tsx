@@ -135,7 +135,7 @@ const LandingPage:FunctionComponent = () => {
                         												<b className="enter-your-first">{`Enter your email `}</b>
                       											</div>
                       											<div className="button-active3">
-                        												<div className="state-layer">
+                        												<div className="state2-layer">
                           													<b className="crop-farming">Submit</b>
                         												</div>
                       											</div>
