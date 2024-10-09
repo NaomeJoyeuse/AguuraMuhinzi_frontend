@@ -1,0 +1,20 @@
+:root {
+    /* Primary Colors */
+    --primary-color: #497E4D; /* Primary 400 */
+    --primary-dark: #0F3412;  /* Darker shade */
+    --primary-darker: #0B270D; /* Darkest shade */
+    --primary-light: #E6FDF1; /* Lighter shade */
+
+    /* Secondary Colors */
+    --secondary-light: #E6FDF1; 
+
+    /* Active Colors */
+    --active-color: #B0F7D5; 
+
+    /* Neutral Colors */
+    --white-50: #FFFFFF; 
+
+    /* Background Colors */
+    --background-color: var(--primary-light); 
+}
+
